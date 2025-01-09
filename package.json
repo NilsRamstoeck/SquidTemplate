@@ -8,7 +8,7 @@
     "dev": "node build.mjs --watch",
     "start": "squid start"
   },
-  "author": "Nils Ramstöck",
+  "author": "Shy",
   "license": "MIT",
   "repository": {
     "type": "git",
